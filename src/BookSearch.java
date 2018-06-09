@@ -3,7 +3,7 @@ class BookSearch {
     private final String author;
     private final int publicationYear;
 
-    BookSearch(BookSearchBuilder builder) {
+    private BookSearch(BookSearchBuilder builder) {
         this.keyword = builder.keyword;
         this.author = builder.author;
         this.publicationYear = builder.publicationYear;
