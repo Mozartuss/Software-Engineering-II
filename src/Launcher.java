@@ -1,12 +1,9 @@
 public class Launcher {
     public static void main(String[] args) {
-        BookSearch.BookSearchBuilder builder = new BookSearch.BookSearchBuilder("keyword");
-        BookSearch bookSearch = builder
-                .author("author")
-                .publicationYear(2018)
-                .build();
+        BookSearch bs = new BookSearch.BookSearchBuilder("software engineering").build();
 
-        System.out.println(bookSearch.getKeyword() + " " + bookSearch.getAuthor() + " " + bookSearch.getPublicationYear());
+
+        System.out.println(bs.getKeyword() + " " + bs.getAuthor() + " " + bs.getPublicationYear());
 
 
     }

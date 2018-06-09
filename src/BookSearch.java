@@ -3,7 +3,7 @@ class BookSearch {
     private final String author;
     private final int publicationYear;
 
-    private BookSearch(BookSearchBuilder builder) {
+    BookSearch(BookSearchBuilder builder) {
         this.keyword = builder.keyword;
         this.author = builder.author;
         this.publicationYear = builder.publicationYear;
@@ -23,8 +23,8 @@ class BookSearch {
 
     static class BookSearchBuilder {
         private final String keyword;
-        private String author;
-        private int publicationYear;
+        private String author = "null";
+        private int publicationYear = Integer.MAX_VALUE;
 
         BookSearchBuilder(String keyword) {
             this.keyword = keyword;
@@ -37,13 +37,13 @@ class BookSearch {
 
         BookSearchBuilder publicationYear(int publicationYear) {
             this.publicationYear = publicationYear;
+
             return this;
         }
 
         BookSearch build() {
             return new BookSearch(this);
         }
-
     }
 }
 
