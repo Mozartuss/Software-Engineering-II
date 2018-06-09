@@ -1,6 +1,6 @@
 # Musterlösung
 
-- Das wird eine Lösungsversuch der SE2 Klausur von 2017
+- Das wird ein Lösungsversuch der SE2 Klausur von 2017
 
 ## Klausur
 
