@@ -20,6 +20,14 @@
      ![Alt text](/Bilder/Signalaufruf.PNG) 
      - asynchroner Operation-/Signalaufruf
      
-     
+3. Kennzeichnen Sie im untenstehenden Sequenzdiagramm die Punkte, an denen Sende- und Empfangsereignisse eintreten.
+ Vergeben Sie hierbei sinnvolle Namen, die Sie dann in der nächsten Teilaufgabe einsetzen können. 
+ 
+4. Halten Sie alle gültigen Abfolgen der Sende- und Empfangsereignisse für das untenstehende Sequenzdiagramm fest.
+
+![Alt text](/Bilder/SequenzdiagrammRoh.PNG) 
+ 
+ TODO
+      
     
 
