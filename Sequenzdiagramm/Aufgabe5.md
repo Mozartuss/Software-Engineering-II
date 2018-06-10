@@ -15,11 +15,11 @@
     
     Beschriften Sie die nachfolgende Graﬁk entsprechend:
     
-     - synchroner Operationsauruf ![Alt text](/Bilder/synchronerOperationsaufruf.PNG)
+     - synchroner Operationsauruf                       ![Alt text](/Bilder/synchronerOperationsaufruf.PNG)
      
-     - synchrone Antwort ![Alt text](/Bilder/synchroneAntwort.PNG)
+     - synchrone Antwort                                ![Alt text](/Bilder/synchroneAntwort.PNG)
      
-     - asynchroner Operation-/Signalaufruf ![Alt text](/Bilder/Signalaufruf.PNG) 
+     - asynchroner Operation-/Signalaufruf              ![Alt text](/Bilder/Signalaufruf.PNG) 
      
 3. Kennzeichnen Sie im untenstehenden Sequenzdiagramm die Punkte, an denen Sende- und Empfangsereignisse eintreten.
  Vergeben Sie hierbei sinnvolle Namen, die Sie dann in der nächsten Teilaufgabe einsetzen können. 
