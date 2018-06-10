@@ -10,6 +10,8 @@
     um zu belegen dass der Automat sich durch Ausführung Ihre Abfolge in den Zustand B begibt. 
     Welche Werte haben x und y in Zustand B?
     
+    __TODO!__
+    
 ![Zustandsdiagramm](/Bilder/Zustandsdiagramm.PNG)
 
 | Event | Zusatand | x | y | Aktivität | Grund   | 
