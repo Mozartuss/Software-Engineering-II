@@ -12,20 +12,20 @@
     
 ![Zustandsdiagramm](/Bilder/Zustandsdiagramm.PNG)
 
-| Event | Zusatand | x | y | Aktivität | Grund | 
-|-------|----------|---|---|-----------|-------|
-|START  |          |0  |0  |x = y = 0  |Kante  |
-|       |          |1  |0  |x = x + 1  |E A    |
-|       |          |2  |0  |x = x * 2  |Kante  |
-|       |A/X1      |4  |0  |x = x + 2  |E X1   |
-|e1     |          |4  |4  |y = y + x  |E X1   |
+| Event | Zusatand | x | y | Aktivität | Grund   | 
+|-------|----------|---|---|-----------|-------  |
+|START  |          |0  |0  |x = y = 0  |Kante    |
+|       |          |1  |0  |x = x + 1  |E A      |
+|       |          |2  |0  |x = x * 2  |Kante    |
+|       |A/X1      |4  |0  |x = x + 2  |E X1     |
+|e1     |          |4  |4  |y = y + x  |E X1     |
 |e4     |          |4  |4  |           |[ x = y ]|
-|       |A/X3      |3  |4  |x = x - 1  |E X3   |
-|       |          |6  |4  |x = x * 2  |Kante  |
-|       |A/X1      |8  |4  |x =x + 2   |E X1   |
-|e1     |          |8  |12 |y = y + x  |E X1   |
-|e4     |A/X2      |16 |12 |x = x * 2  |Kante  |
-|       |          |32 |12 |x = x * 2  |Kante  |  
+|       |A/X3      |3  |4  |x = x - 1  |E X3     |
+|       |          |6  |4  |x = x * 2  |Kante    |
+|       |A/X1      |8  |4  |x =x + 2   |E X1     |
+|e1     |          |8  |12 |y = y + x  |E X1     |
+|e4     |A/X2      |16 |12 |x = x * 2  |Kante    |
+|       |          |32 |12 |x = x * 2  |Kante    |  
 
 
 
