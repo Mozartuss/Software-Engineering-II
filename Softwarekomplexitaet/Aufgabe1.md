@@ -12,7 +12,7 @@
 
 3. Zeichen und beschreiben Sie die drei in der Vorlesung aufgezeigten Möglichkeiten diese Optimierungen umzusetzen.
 
-    ![Kosten Zeit Qualität](Bilder/Kosten,Zeit,Qualität.PNG)
+    ![KostenZeitQualität](/Bilder/Kosten,Zeit,Qualität.PNG)
 
         1. Qualität dafür mehr Kosten und Zeitaufwand
         2.Mehr Efﬁzienz, d.h. z.B. bei gleich Kosten mehr Qualität und/oder weniger Zeitaufwand
