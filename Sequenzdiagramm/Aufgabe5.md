@@ -1,4 +1,4 @@
-##Sequenzdiagramm
+## Sequenzdiagramm
 1. Nennen Sie mindestens vier Teile, aus denen sich Sequenzdiagramme zusammensetzen.
     1. *Interaktionen*
     2. *Lebenslinien*
