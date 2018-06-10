@@ -3,11 +3,11 @@
 1. Nennen Sie drei UML Strukturdiagramme, welche in der Vorlesung besprochen wurden.
    Beschreiben Sie kurz, wofür diese jeweils eingesetzt werden.
 
-    a) Klassendiagramm
+    a) __Klassendiagramm__ wird für die graphische darstellung der Klassen im Code benutzt 
 
-    b) Objektdiagramm
+    b) Ein __Objektdiagramm__ modeliert die Instanzen der Klassen
 
-    c) Verteilungsdiagramm
+    c) __Verteilungsdiagramm__, dies modeliert physische Objekte (Dokumente , Bibliotheken ...)
 
 2. Modellieren Sie mithilfe von einem UML Klassendiagrammen die Zeichenobjekte eines Vektor-basierten Zeichenprogramms.
    Ihr Programm sollte folgende graphische primitive Formen unterstützen:
