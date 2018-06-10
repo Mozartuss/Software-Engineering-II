@@ -15,16 +15,17 @@
 | Event | Zusatand | x | y | Aktivität | Grund   | 
 |-------|----------|---|---|-----------|-------  |
 |START  |          |0  |0  |x = y = 0  |Kante    |
-|       |          |1  |0  |x = x + 1  |E A      |
-|       |          |2  |0  |x = x * 2  |Kante    |
-|       |A/X1      |4  |0  |x = x + 2  |E X1     |
-|e1     |          |4  |4  |y = y + x  |E X1     |
-|e4     |          |4  |4  |           |[ x = y ]|
-|       |A/X3      |3  |4  |x = x - 1  |E X3     |
-|       |A/X1      |5  |4  |x =x + 2   |E X1     |
-|e1     |          |7  |11 |y = y + x  |E X1     |
-|e4     |A/X2      |14 |11 |x = x * 2  |Kante    |
-|       |          |14 |0  |y = 0      |E X2    |  
+|       |A         |1  |0  |x = x + 1  |Entry A  |
+|       |A         |2  |0  |x = x * 2  |Kante    |
+|       |A/X1      |4  |4  |x = x + 2; y = y + x |E X1|
+|e1     |A/X1      |4  |4  |           |Kante [ x = y ]|
+|e4     |A/X3      |4  |4  |           |Kante [ x = y ]|
+|       |A/X3      |3  |4  |x = x - 1  |Ex X3  |
+|       |A/X1      |5  |9  |x = x + 2; y = y + x |E X1|
+|e1     |A/X1      |10 |9  |x = x * 2  |Kante [ x ≠ y ]|
+|       |A/X2      |10 |0  |y = 0      |Ex X2    |
+|e4     |A/X2      |10 |0  |           |Kante    |
+|       |A/X1      |12 |12 |x = x + 2; y = y + x |E X1|  
 
 
 
