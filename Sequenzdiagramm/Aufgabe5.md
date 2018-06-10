@@ -1,9 +1,13 @@
 ## Sequenzdiagramm
 1. Nennen Sie mindestens vier Teile, aus denen sich Sequenzdiagramme zusammensetzen.
-    1. *Interaktionen*
-    2. *Lebenslinien*
-    3. *Nachrichten*
-    4. *Kommunikationspartner*
+
+    a) *Interaktionen*
+    
+    b) *Lebenslinien*
+    
+    c) *Nachrichten*
+    
+    d) *Kommunikationspartner*
 2. Es gibt die folgenden drei Nachrichtenarten:
     - synchroner Operationsaufruf
     - synchrone Antwort 
