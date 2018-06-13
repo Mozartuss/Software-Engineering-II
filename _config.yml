@@ -1,1 +1,8 @@
+# basic options
+title: Software_Engineering_II
+author: Mozartuss
+email: lukas.kleybolte@hs-augsburg.de
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-tactile
