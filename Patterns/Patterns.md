@@ -20,8 +20,8 @@ Es gibt unterschiedliche Typen von Entwurfsmustern.
 __Erzeugermuster__:
 - Einzelstück (singleton pattern)
 - Erbauer (builder pattern)
-- Abstrakte Fabrik (abstract factory pattern)
-- Fabrikmethode (factory methode pattern)
+- [Abstrakte Fabrik (abstract factory pattern)](https://github.com/Mozartuss/SE2_SS2018/blob/master/Patterns/AbstractFactory.md)
+- [Fabrikmethode (factory methode pattern)](https://github.com/Mozartuss/SE2_SS2018/blob/master/Patterns/FactoryMethod.md)
 
 __Strukturmuster__ :
 - Adapter (adapter pattern)
