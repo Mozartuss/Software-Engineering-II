@@ -1,10 +1,19 @@
-# Musterlösung
+# Software-Engineering II
 
-## Klausur
+
+## Themen
+
+- [Patterns](https://github.com/Mozartuss/SE2_SS2018/blob/master/Patterns/Patterns.md)
+
+
+
+
+
+### Klausur
 
   [**SE2 Klausur SS17**](https://1drv.ms/b/s!AhMoB1mqc6rZgYMNqsG7kmHUZ07nYg)
   
-## Aufgaben
+### Aufgaben + Lösung
 
 
 | |Aufgaben|Punkte|
