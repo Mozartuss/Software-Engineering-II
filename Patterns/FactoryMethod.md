@@ -18,7 +18,7 @@ Beispiel:
 
 Fabrikmethode als UML
 
-<img src="Bilder\Fabrikmethode.png" alt="FabrikmethodeKlassendiagram" width="500">
+<img src="https://github.com/Mozartuss/Software-Engineering-II/blob/master/Bilder/Fabrikmethode.png" alt="FabrikmethodeKlassendiagram" width="500">
 
 ## Vergleich von Abstract Factory und Factory Method
 
