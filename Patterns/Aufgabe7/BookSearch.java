@@ -67,7 +67,7 @@ public class BookSearch {
      */
 
     public BookSearch build() {
-      return new BookSearch(this);
+      return new BookSearch(publicationYear,author,keyword);
     }
   }
 }
