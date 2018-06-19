@@ -14,7 +14,7 @@
     
 ![Zustandsdiagramm](/Bilder/Zustandsdiagramm.PNG)
 
-| Event | Zusatand | x | y | Aktivität | Grund   | 
+| Event | Zustand  | x | y | Aktivität | Grund   | 
 |-------|----------|---|---|-----------|-------  |
 |START  |          |0  |0  |x = y = 0  |Kante    |
 |       |A         |1  |0  |x = x + 1  |Entry A  |
